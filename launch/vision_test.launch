@@ -1,0 +1,7 @@
+<launch>
+
+<!-- Starting vision test node -->
+
+   <node name="visionTest" pkg="vision_test_pkg" type="vision_test_pkg_node" output="screen" />
+
+</launch>

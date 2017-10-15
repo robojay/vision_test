@@ -12,7 +12,7 @@
 double rhoAverage = 0.0;
 double thetaAverage = 0.0;
 int sampleCount = 0;
-const double RMA = 10.0;
+const double RMA = 5.0;
 ros::Publisher linePub;
 
 class ImageConverter
